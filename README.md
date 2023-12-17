@@ -1,4 +1,4 @@
-<img src="https://github.com/saint-13/Linux_Dynamic_Wallpapers/blob/main/Screenshots/LakesideDeer.gif" alt="Обои">
+<img src="https://mobimg.b-cdn.net/v3/fetch/36/3676655073eddeb57f9efafe127f821b.jpeg" alt="Обои">
 
 # Привет, меня зовут Дмитрий! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
@@ -9,7 +9,7 @@
 Backend-разработчик на Python. Мой путь в IT начался с интенсивов и курсов в Skillbox, где я по итогу выучился по профессии Python-разработчик. В процессе обучения, а также самостоятельного изучения, мною были освоены такие фреймворки как Django, Django REST Framework, Flask, FastAPI. В репозитории вы можете ознакомиться с примерами реализованных мною проектов. 
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="700" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 ---
