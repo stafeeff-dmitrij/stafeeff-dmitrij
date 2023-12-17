@@ -9,7 +9,7 @@
 Backend-разработчик на Python. Мой путь в IT начался с интенсивов и курсов в Skillbox, где я по итогу выучился по профессии Python-разработчик. В процессе обучения, а также самостоятельного изучения, мною были освоены такие фреймворки как Django, Django REST Framework, Flask, FastAPI. В репозитории вы можете ознакомиться с примерами реализованных мною проектов. 
 
 <p align="center">
- <img width="800" src="assets/github-snake.svg" alt="snake"/>
+ <img width="700" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 ---
