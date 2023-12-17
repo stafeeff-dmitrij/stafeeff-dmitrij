@@ -6,7 +6,7 @@
 
 ### :man_technologist: Обо мне:
 
-Backend-разработчик на Python. Мой путь в IT начался с интенсивов и курсов в Skillbox, где я по итогу выучился по профессии Python-разработчик. В процессе обучения, а также самостоятельного изучения, мною были освоены такие фреймворки как Django, Django REST Framework, Flask, FastAPI. В репозитории вы можете ознакомиться с примерами реализованных мною проектов. 
+Backend-разработчик на Python. Мой путь в IT начался с интенсивов и курсов в Skillbox, где я по итогу освоил профессию Python-разработчик. В процессе обучения и самостоятельного изучения освоил такие фреймворки как Django, Django REST Framework, Flask, FastAPI. В репозитории вы можете ознакомиться с примерами реализованных проектов. 
 
 <p align="center">
  <img width="700" src="assets/github-snake.svg" alt="snake"/>
@@ -73,8 +73,8 @@ Backend-разработчик на Python. Мой путь в IT начался
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 
 **IDE**
-<img align="right" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important" />
 <img align="right" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=whitee" />
+<img align="right" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important" />
 <img align="right" src="https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white" />
 
