@@ -39,7 +39,6 @@ Backend-разработчик на Python. Мой путь в IT начался
 <img align="right" height="20px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img align="right" height="20px" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
