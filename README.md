@@ -9,7 +9,7 @@
 Fullstack-разработчик (Python, TS). Разрабатываю веб-приложения на FastAPI, Django, DRF и React. В свободное время изучаю английский, новые технологии и инструменты для разработки, сопровождения и мониторинга веб-приложений. 
 
 <p align="center">
- <img width="700" src="assets/github-snake.svg" alt="snake"/>
+ <img width="727" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 ---
