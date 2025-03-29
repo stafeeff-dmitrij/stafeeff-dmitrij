@@ -6,7 +6,7 @@
 
 ### :man_technologist: О себе:
 
-Fullstack-разработчик (Python, TS). Создаю веб-приложения на FastAPI, Django, DRF и React. В свободное время изучаю английский, новые технологии и инструменты для разработки, сопровождения и мониторинга веб-приложений. 
+Fullstack-разработчик (Python, TS). Разрабатываю веб-приложения на FastAPI, Django, DRF и React. В свободное время изучаю английский, новые технологии и инструменты для разработки, сопровождения и мониторинга веб-приложений. 
 
 <p align="center">
  <img width="700" src="assets/github-snake.svg" alt="snake"/>
@@ -71,8 +71,6 @@ Fullstack-разработчик (Python, TS). Создаю веб-прилож�
 <img align="right" src="https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff" />
 <img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white" />
 
-
-
 **Languages**
 <img align="right" src="https://img.shields.io/badge/English-A2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
 <img align="right" src="https://img.shields.io/badge/Russian-mother tongue-green?logo=data:image/svg%2bxml;base64," />
@@ -84,15 +82,10 @@ Fullstack-разработчик (Python, TS). Создаю веб-прилож�
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FreemaHG&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=stafeeff-dmitrij&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreemaHG&layout=compact&theme=vision-friendly-dark"/>
     </td>
   </tr>
 </table>
-
-
-
-
-
