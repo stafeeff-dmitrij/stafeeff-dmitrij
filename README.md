@@ -77,5 +77,8 @@ Fullstack-разработчик (Python, TS). Разрабатываю веб-�
 
 ---
 
-### ⚙️ GitHub статистика:
-<img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stafeeff-dmitrij&layout=compact&theme=vision-friendly-dark"/>
+### ⚙️ Статистика:
+
+| GitHub | LeetCode |
+|:--------|:--------|
+| <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stafeeff-dmitrij&layout=compact&theme=vision-friendly-dark"/>  | <img height="194px" align="left" alt="LeetCode static" src="https://leetcard.jacoblin.cool/stafeeff-dmitrij?theme=dark&font=Kadwa"/>  |
